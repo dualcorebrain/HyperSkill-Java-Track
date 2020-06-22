@@ -11,6 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="984fee88-4a82-46e4-bd2e-66f734c686bb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Problems/Desks/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Desks/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Desks/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Desks/task.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Guest list of a hotel/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Guest list of a hotel/task-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Guest list of a hotel/task-remote-info.yaml" afterDir="false" />
@@ -27,6 +31,14 @@
       <change afterPath="$PROJECT_DIR$/Problems/Printing strings in the same order/task-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Printing strings in the same order/task-remote-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Printing strings in the same order/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Reversing/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Reversing/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Reversing/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Reversing/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Snail/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Snail/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Snail/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Snail/task.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/The forgotten comments/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/The forgotten comments/task-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/The forgotten comments/task-remote-info.yaml" afterDir="false" />
@@ -72,14 +84,7 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
     <property name="show.inlinked.gradle.project.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Main (4)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Problems-Initializing_an_array_of_integers_main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Problems-Hiring_a_chef_main" />
@@ -101,20 +106,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Problems-Reversing_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Problems-Initializing_an_array_of_characters_main" />
+      <module name="Problems-Snail_main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +145,7 @@
       <workItem from="1592429633908" duration="311000" />
       <workItem from="1592600412091" duration="639000" />
       <workItem from="1592674445634" duration="6978000" />
-      <workItem from="1592854382006" duration="1427000" />
+      <workItem from="1592854382006" duration="5331000" />
     </task>
     <servers />
   </component>
@@ -153,25 +165,29 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1491" height="495" key="GridCell.Tab.0.bottom" timestamp="1592855536181">
+    <state width="1491" height="495" key="GridCell.Tab.0.bottom" timestamp="1592859716583">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state width="1491" height="495" key="GridCell.Tab.0.bottom/0.0.3072.1688@0.0.3072.1688" timestamp="1592855536181" />
-    <state width="1491" height="495" key="GridCell.Tab.0.center" timestamp="1592855536181">
+    <state width="1491" height="495" key="GridCell.Tab.0.bottom/0.0.3072.1688@0.0.3072.1688" timestamp="1592859716583" />
+    <state width="1491" height="495" key="GridCell.Tab.0.center" timestamp="1592859716583">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state width="1491" height="495" key="GridCell.Tab.0.center/0.0.3072.1688@0.0.3072.1688" timestamp="1592855536181" />
-    <state width="1491" height="495" key="GridCell.Tab.0.left" timestamp="1592855536181">
+    <state width="1491" height="495" key="GridCell.Tab.0.center/0.0.3072.1688@0.0.3072.1688" timestamp="1592859716583" />
+    <state width="1491" height="495" key="GridCell.Tab.0.left" timestamp="1592859716582">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state width="1491" height="495" key="GridCell.Tab.0.left/0.0.3072.1688@0.0.3072.1688" timestamp="1592855536181" />
-    <state width="1491" height="495" key="GridCell.Tab.0.right" timestamp="1592855536181">
+    <state width="1491" height="495" key="GridCell.Tab.0.left/0.0.3072.1688@0.0.3072.1688" timestamp="1592859716582" />
+    <state width="1491" height="495" key="GridCell.Tab.0.right" timestamp="1592859716583">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state width="1491" height="495" key="GridCell.Tab.0.right/0.0.3072.1688@0.0.3072.1688" timestamp="1592855536181" />
+    <state width="1491" height="495" key="GridCell.Tab.0.right/0.0.3072.1688@0.0.3072.1688" timestamp="1592859716583" />
     <state x="278" y="492" key="SettingsEditor" timestamp="1592083569325">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
     <state x="278" y="492" key="SettingsEditor/0.0.3072.1688@0.0.3072.1688" timestamp="1592083569325" />
+    <state x="425" y="406" key="run.anything.popup" timestamp="1592856813769">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state x="425" y="406" key="run.anything.popup/0.0.3072.1688@0.0.3072.1688" timestamp="1592856813769" />
   </component>
 </project>
