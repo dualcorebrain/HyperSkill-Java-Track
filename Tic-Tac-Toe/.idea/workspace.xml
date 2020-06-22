@@ -31,6 +31,10 @@
       <change afterPath="$PROJECT_DIR$/Problems/The forgotten comments/task-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/The forgotten comments/task-remote-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/The forgotten comments/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The sum of digits/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The sum of digits/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The sum of digits/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The sum of digits/task.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +72,7 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
     <property name="show.inlinked.gradle.project.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Problems-Initializing_an_array_of_integers_main" />
@@ -90,6 +94,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Problems-The_sum_of_digits_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Problems-Initializing_an_array_of_characters_main" />
@@ -99,6 +110,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
@@ -120,7 +132,8 @@
       <workItem from="1592339385247" duration="1023000" />
       <workItem from="1592429633908" duration="311000" />
       <workItem from="1592600412091" duration="639000" />
-      <workItem from="1592674445634" duration="6647000" />
+      <workItem from="1592674445634" duration="6978000" />
+      <workItem from="1592854382006" duration="1427000" />
     </task>
     <servers />
   </component>
@@ -137,24 +150,25 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1507" height="495" key="GridCell.Tab.0.bottom" timestamp="1592693443441">
+    <state width="1491" height="495" key="GridCell.Tab.0.bottom" timestamp="1592855536181">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state width="1507" height="495" key="GridCell.Tab.0.bottom/0.0.3072.1688@0.0.3072.1688" timestamp="1592693443441" />
-    <state width="1507" height="495" key="GridCell.Tab.0.center" timestamp="1592693443441">
+    <state width="1491" height="495" key="GridCell.Tab.0.bottom/0.0.3072.1688@0.0.3072.1688" timestamp="1592855536181" />
+    <state width="1491" height="495" key="GridCell.Tab.0.center" timestamp="1592855536181">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state width="1507" height="495" key="GridCell.Tab.0.center/0.0.3072.1688@0.0.3072.1688" timestamp="1592693443441" />
-    <state width="1507" height="495" key="GridCell.Tab.0.left" timestamp="1592693443441">
+    <state width="1491" height="495" key="GridCell.Tab.0.center/0.0.3072.1688@0.0.3072.1688" timestamp="1592855536181" />
+    <state width="1491" height="495" key="GridCell.Tab.0.left" timestamp="1592855536181">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state width="1507" height="495" key="GridCell.Tab.0.left/0.0.3072.1688@0.0.3072.1688" timestamp="1592693443441" />
-    <state width="1507" height="495" key="GridCell.Tab.0.right" timestamp="1592693443441">
+    <state width="1491" height="495" key="GridCell.Tab.0.left/0.0.3072.1688@0.0.3072.1688" timestamp="1592855536181" />
+    <state width="1491" height="495" key="GridCell.Tab.0.right" timestamp="1592855536181">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state width="1507" height="495" key="GridCell.Tab.0.right/0.0.3072.1688@0.0.3072.1688" timestamp="1592693443441" />
+    <state width="1491" height="495" key="GridCell.Tab.0.right/0.0.3072.1688@0.0.3072.1688" timestamp="1592855536181" />
     <state x="278" y="492" key="SettingsEditor" timestamp="1592083569325">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>

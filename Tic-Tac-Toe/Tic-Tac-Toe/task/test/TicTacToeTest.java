@@ -1,3 +1,4 @@
+import org.hyperskill.hstest.exception.outcomes.WrongAnswer;
 import org.hyperskill.hstest.stage.StageTest;
 import org.hyperskill.hstest.testcase.CheckResult;
 import org.hyperskill.hstest.testcase.TestCase;
@@ -108,6 +109,11 @@ class TicTacToeField {
                 .collect(Collectors.toList());
 
             for (String line : lines) {
+                if (line.length() != 9) {
+                    throw new WrongAnswer("Line of Tic-Tac-Toe " +
+                        "field should be 9 characters long\n" +
+                        "found " + line.length() + " characters in \"" + line + "\"");
+                }
                 for (char c : line.toCharArray()) {
                     if (c != 'X'
                         && c != 'O'
