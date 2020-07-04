@@ -11,10 +11,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="984fee88-4a82-46e4-bd2e-66f734c686bb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Problems/Comparing strings ignoring whitespaces/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Comparing strings ignoring whitespaces/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Comparing strings ignoring whitespaces/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Comparing strings ignoring whitespaces/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Decrement all/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Decrement all/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Decrement all/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Decrement all/task.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Desks/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Desks/task-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Desks/task-remote-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Desks/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Extracting a substring/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Extracting a substring/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Extracting a substring/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Extracting a substring/task.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Guest list of a hotel/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Guest list of a hotel/task-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Guest list of a hotel/task-remote-info.yaml" afterDir="false" />
@@ -31,6 +43,10 @@
       <change afterPath="$PROJECT_DIR$/Problems/Printing strings in the same order/task-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Printing strings in the same order/task-remote-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Printing strings in the same order/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Replacing 'a' with 'b'/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Replacing 'a' with 'b'/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Replacing 'a' with 'b'/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Replacing 'a' with 'b'/task.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Reversing/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Reversing/task-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Reversing/task-remote-info.yaml" afterDir="false" />
@@ -84,17 +100,23 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
     <property name="show.inlinked.gradle.project.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Problems-Hiring_a_chef_main" />
+      <module name="Problems-Comparing_strings_ignoring_whitespaces_main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Problems-Guest_list_of_a_hotel_main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tictactoe.Main" />
+      <module name="Tic-Tac-Toe-task_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tictactoe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -122,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +167,12 @@
       <workItem from="1592429633908" duration="311000" />
       <workItem from="1592600412091" duration="639000" />
       <workItem from="1592674445634" duration="6978000" />
-      <workItem from="1592854382006" duration="5331000" />
+      <workItem from="1592854382006" duration="6159000" />
+      <workItem from="1593203075473" duration="680000" />
+      <workItem from="1593466296303" duration="861000" />
+      <workItem from="1593547291893" duration="1198000" />
+      <workItem from="1593635602069" duration="4171000" />
+      <workItem from="1593902012651" duration="1688000" />
     </task>
     <servers />
   </component>
@@ -165,22 +192,22 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1491" height="495" key="GridCell.Tab.0.bottom" timestamp="1592859716583">
+    <state width="1792" height="495" key="GridCell.Tab.0.bottom" timestamp="1593905186089">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state width="1491" height="495" key="GridCell.Tab.0.bottom/0.0.3072.1688@0.0.3072.1688" timestamp="1592859716583" />
-    <state width="1491" height="495" key="GridCell.Tab.0.center" timestamp="1592859716583">
+    <state width="1792" height="495" key="GridCell.Tab.0.bottom/0.0.3072.1688@0.0.3072.1688" timestamp="1593905186089" />
+    <state width="1792" height="495" key="GridCell.Tab.0.center" timestamp="1593905186089">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state width="1491" height="495" key="GridCell.Tab.0.center/0.0.3072.1688@0.0.3072.1688" timestamp="1592859716583" />
-    <state width="1491" height="495" key="GridCell.Tab.0.left" timestamp="1592859716582">
+    <state width="1792" height="495" key="GridCell.Tab.0.center/0.0.3072.1688@0.0.3072.1688" timestamp="1593905186089" />
+    <state width="1792" height="495" key="GridCell.Tab.0.left" timestamp="1593905186089">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state width="1491" height="495" key="GridCell.Tab.0.left/0.0.3072.1688@0.0.3072.1688" timestamp="1592859716582" />
-    <state width="1491" height="495" key="GridCell.Tab.0.right" timestamp="1592859716583">
+    <state width="1792" height="495" key="GridCell.Tab.0.left/0.0.3072.1688@0.0.3072.1688" timestamp="1593905186089" />
+    <state width="1792" height="495" key="GridCell.Tab.0.right" timestamp="1593905186089">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state width="1491" height="495" key="GridCell.Tab.0.right/0.0.3072.1688@0.0.3072.1688" timestamp="1592859716583" />
+    <state width="1792" height="495" key="GridCell.Tab.0.right/0.0.3072.1688@0.0.3072.1688" timestamp="1593905186089" />
     <state x="278" y="492" key="SettingsEditor" timestamp="1592083569325">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>

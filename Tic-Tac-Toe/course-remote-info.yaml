@@ -56,6 +56,8 @@ topics:
     theory_id: 3512
   - title: Conditional statement
     theory_id: 3503
+  - title: Ternary operator
+    theory_id: 3506
   - title: The for-loop
     theory_id: 3505
   - title: The while and do-while loops
@@ -75,8 +77,6 @@ topics:
   3:
   - title: Units of information
     theory_id: 6865
-  - title: Binary numbers
-    theory_id: 5544
   - title: Sizes and ranges
     theory_id: 3532
   - title: Type casting

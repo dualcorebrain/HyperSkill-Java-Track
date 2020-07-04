@@ -4,6 +4,7 @@ files:
 - name: test/TicTacToeTest.java
   visible: false
   text: |
+    import org.hyperskill.hstest.exception.outcomes.WrongAnswer;
     import org.hyperskill.hstest.stage.StageTest;
     import org.hyperskill.hstest.testcase.CheckResult;
     import org.hyperskill.hstest.testcase.TestCase;
