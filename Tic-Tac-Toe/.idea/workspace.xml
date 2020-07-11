@@ -11,6 +11,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="984fee88-4a82-46e4-bd2e-66f734c686bb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Problems/Check the given numbers are different/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Check the given numbers are different/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Check the given numbers are different/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Check the given numbers are different/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Check the value/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Check the value/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Check the value/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Check the value/task.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Comparing strings ignoring whitespaces/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Comparing strings ignoring whitespaces/task-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Comparing strings ignoring whitespaces/task-remote-info.yaml" afterDir="false" />
@@ -23,6 +31,10 @@
       <change afterPath="$PROJECT_DIR$/Problems/Desks/task-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Desks/task-remote-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Desks/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Exactly one parameter is positive/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Exactly one parameter is positive/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Exactly one parameter is positive/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Exactly one parameter is positive/task.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Extracting a substring/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Extracting a substring/task-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Extracting a substring/task-remote-info.yaml" afterDir="false" />
@@ -100,7 +112,7 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
     <property name="show.inlinked.gradle.project.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Problems-Comparing_strings_ignoring_whitespaces_main" />
@@ -121,16 +133,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Problems-The_sum_of_digits_main" />
+      <module name="Problems-Check_the_given_numbers_are_different_main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Problems-Reversing_main" />
+      <module name="Problems-Exactly_one_parameter_is_positive_main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -144,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +184,14 @@
       <workItem from="1593466296303" duration="861000" />
       <workItem from="1593547291893" duration="1198000" />
       <workItem from="1593635602069" duration="4171000" />
-      <workItem from="1593902012651" duration="1688000" />
+      <workItem from="1593902012651" duration="3197000" />
+      <workItem from="1593986815866" duration="816000" />
+      <workItem from="1594158212129" duration="654000" />
+      <workItem from="1594240376797" duration="614000" />
+      <workItem from="1594245700503" duration="825000" />
+      <workItem from="1594342033116" duration="644000" />
+      <workItem from="1594417812517" duration="3376000" />
+      <workItem from="1594429955777" duration="28000" />
     </task>
     <servers />
   </component>
@@ -192,29 +211,33 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1792" height="495" key="GridCell.Tab.0.bottom" timestamp="1593905186089">
+    <state x="456" y="580" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1594245202248">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state width="1792" height="495" key="GridCell.Tab.0.bottom/0.0.3072.1688@0.0.3072.1688" timestamp="1593905186089" />
-    <state width="1792" height="495" key="GridCell.Tab.0.center" timestamp="1593905186089">
+    <state x="456" y="580" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.3072.1688@0.0.3072.1688" timestamp="1594245202248" />
+    <state width="1800" height="495" key="GridCell.Tab.0.bottom" timestamp="1594429920671">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state width="1792" height="495" key="GridCell.Tab.0.center/0.0.3072.1688@0.0.3072.1688" timestamp="1593905186089" />
-    <state width="1792" height="495" key="GridCell.Tab.0.left" timestamp="1593905186089">
+    <state width="1800" height="495" key="GridCell.Tab.0.bottom/0.0.3072.1688@0.0.3072.1688" timestamp="1594429920671" />
+    <state width="1800" height="495" key="GridCell.Tab.0.center" timestamp="1594429920671">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state width="1792" height="495" key="GridCell.Tab.0.left/0.0.3072.1688@0.0.3072.1688" timestamp="1593905186089" />
-    <state width="1792" height="495" key="GridCell.Tab.0.right" timestamp="1593905186089">
+    <state width="1800" height="495" key="GridCell.Tab.0.center/0.0.3072.1688@0.0.3072.1688" timestamp="1594429920671" />
+    <state width="1800" height="495" key="GridCell.Tab.0.left" timestamp="1594429920671">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state width="1792" height="495" key="GridCell.Tab.0.right/0.0.3072.1688@0.0.3072.1688" timestamp="1593905186089" />
+    <state width="1800" height="495" key="GridCell.Tab.0.left/0.0.3072.1688@0.0.3072.1688" timestamp="1594429920671" />
+    <state width="1800" height="495" key="GridCell.Tab.0.right" timestamp="1594429920671">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state width="1800" height="495" key="GridCell.Tab.0.right/0.0.3072.1688@0.0.3072.1688" timestamp="1594429920671" />
     <state x="278" y="492" key="SettingsEditor" timestamp="1592083569325">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
     <state x="278" y="492" key="SettingsEditor/0.0.3072.1688@0.0.3072.1688" timestamp="1592083569325" />
-    <state x="425" y="406" key="run.anything.popup" timestamp="1592856813769">
+    <state x="425" y="406" key="run.anything.popup" timestamp="1594344661083">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state x="425" y="406" key="run.anything.popup/0.0.3072.1688@0.0.3072.1688" timestamp="1592856813769" />
+    <state x="425" y="406" key="run.anything.popup/0.0.3072.1688@0.0.3072.1688" timestamp="1594344661083" />
   </component>
 </project>

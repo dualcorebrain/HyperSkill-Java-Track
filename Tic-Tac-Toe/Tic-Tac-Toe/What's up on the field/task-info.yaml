@@ -310,6 +310,33 @@ files:
         }
     }
   learner_created: false
+- name: src/tictactoe/Main.java
+  visible: true
+  text: |
+    package tictactoe;
+
+    import java.util.*;
+    public class Main {
+        public static void main(String[] args) {
+            Scanner scannerobj = new Scanner(System.in);
+            System.out.println("Enter cells: ");
+            String UserInput = scannerobj.nextLine();
+
+            char[] UserInputArray = UserInput.toCharArray();
+
+            System.out.println("---------");
+
+            System.out.println("| " + UserInputArray[0] + " " +  UserInputArray[1] + " " + UserInputArray[2] + " |");
+            System.out.println("| " + UserInputArray[3] + " " +  UserInputArray[4] + " " + UserInputArray[5]  + " |");
+            System.out.println("| " + UserInputArray[6] + " " +  UserInputArray[7] + " " + UserInputArray[8]  + " |");
+
+
+            System.out.println("---------\n");
+
+
+        }
+    }
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/48/stages/257/implement
 status: Unchecked
 record: -1

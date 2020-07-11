@@ -7,10 +7,14 @@ public class Main {
         System.out.println("Enter cells: ");
         String UserInput = scannerobj.nextLine();
 
+        char[] UserInputArray = UserInput.toCharArray();
+
         System.out.println("---------");
-        System.out.println("| " + UserInput.charAt(0) + " " + UserInput.charAt(1) + " " + UserInput.charAt(2) + " |" );
-        System.out.println("| " + UserInput.charAt(3) + " " + UserInput.charAt(4) + " " + UserInput.charAt(5) + " |" );
-        System.out.println("| " + UserInput.charAt(6) + " " + UserInput.charAt(7) + " " + UserInput.charAt(8) + " |" );
+
+        System.out.println("| " + UserInputArray[0] + " " +  UserInputArray[1] + " " + UserInputArray[2] + " |");
+        System.out.println("| " + UserInputArray[3] + " " +  UserInputArray[4] + " " + UserInputArray[5]  + " |");
+        System.out.println("| " + UserInputArray[6] + " " +  UserInputArray[7] + " " + UserInputArray[8]  + " |");
+
         System.out.println("---------\n");
 
 
