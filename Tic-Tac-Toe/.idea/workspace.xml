@@ -19,6 +19,10 @@
       <change afterPath="$PROJECT_DIR$/Problems/Check the value/task-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Check the value/task-remote-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Check the value/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Chocolate/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Chocolate/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Chocolate/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Chocolate/task.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Comparing strings ignoring whitespaces/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Comparing strings ignoring whitespaces/task-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Comparing strings ignoring whitespaces/task-remote-info.yaml" afterDir="false" />
@@ -43,6 +47,10 @@
       <change afterPath="$PROJECT_DIR$/Problems/Guest list of a hotel/task-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Guest list of a hotel/task-remote-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Guest list of a hotel/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Healthy sleep/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Healthy sleep/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Healthy sleep/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Healthy sleep/task.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Hiring a chef/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Hiring a chef/task-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Hiring a chef/task-remote-info.yaml" afterDir="false" />
@@ -51,10 +59,18 @@
       <change afterPath="$PROJECT_DIR$/Problems/Initializing an array of integers/task-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Initializing an array of integers/task-remote-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Initializing an array of integers/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Leap year/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Leap year/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Leap year/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Leap year/task.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Printing strings in the same order/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Printing strings in the same order/task-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Printing strings in the same order/task-remote-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Printing strings in the same order/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Queens/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Queens/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Queens/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Queens/task.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Replacing 'a' with 'b'/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Replacing 'a' with 'b'/task-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Replacing 'a' with 'b'/task-remote-info.yaml" afterDir="false" />
@@ -112,23 +128,10 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
     <property name="show.inlinked.gradle.project.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Main (4)">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Problems-Comparing_strings_ignoring_whitespaces_main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tictactoe.Main" />
-      <module name="Tic-Tac-Toe-task_main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tictactoe.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <module name="Problems-Queens_main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -147,20 +150,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Problems-Healthy_sleep_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Problems-Snail_main" />
+      <module name="Problems-Leap_year_main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +201,11 @@
       <workItem from="1594245700503" duration="825000" />
       <workItem from="1594342033116" duration="644000" />
       <workItem from="1594417812517" duration="3376000" />
-      <workItem from="1594429955777" duration="28000" />
+      <workItem from="1594429955777" duration="109000" />
+      <workItem from="1594591752388" duration="642000" />
+      <workItem from="1594853384351" duration="1175000" />
+      <workItem from="1594914722839" duration="1198000" />
+      <workItem from="1595020719865" duration="5827000" />
     </task>
     <servers />
   </component>
@@ -215,22 +229,22 @@
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
     <state x="456" y="580" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.3072.1688@0.0.3072.1688" timestamp="1594245202248" />
-    <state width="1800" height="495" key="GridCell.Tab.0.bottom" timestamp="1594429920671">
+    <state width="1760" height="495" key="GridCell.Tab.0.bottom" timestamp="1595027322320">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state width="1800" height="495" key="GridCell.Tab.0.bottom/0.0.3072.1688@0.0.3072.1688" timestamp="1594429920671" />
-    <state width="1800" height="495" key="GridCell.Tab.0.center" timestamp="1594429920671">
+    <state width="1760" height="495" key="GridCell.Tab.0.bottom/0.0.3072.1688@0.0.3072.1688" timestamp="1595027322320" />
+    <state width="1760" height="495" key="GridCell.Tab.0.center" timestamp="1595027322320">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state width="1800" height="495" key="GridCell.Tab.0.center/0.0.3072.1688@0.0.3072.1688" timestamp="1594429920671" />
-    <state width="1800" height="495" key="GridCell.Tab.0.left" timestamp="1594429920671">
+    <state width="1760" height="495" key="GridCell.Tab.0.center/0.0.3072.1688@0.0.3072.1688" timestamp="1595027322320" />
+    <state width="1760" height="495" key="GridCell.Tab.0.left" timestamp="1595027322320">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state width="1800" height="495" key="GridCell.Tab.0.left/0.0.3072.1688@0.0.3072.1688" timestamp="1594429920671" />
-    <state width="1800" height="495" key="GridCell.Tab.0.right" timestamp="1594429920671">
+    <state width="1760" height="495" key="GridCell.Tab.0.left/0.0.3072.1688@0.0.3072.1688" timestamp="1595027322320" />
+    <state width="1760" height="495" key="GridCell.Tab.0.right" timestamp="1595027322320">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state width="1800" height="495" key="GridCell.Tab.0.right/0.0.3072.1688@0.0.3072.1688" timestamp="1594429920671" />
+    <state width="1760" height="495" key="GridCell.Tab.0.right/0.0.3072.1688@0.0.3072.1688" timestamp="1595027322320" />
     <state x="278" y="492" key="SettingsEditor" timestamp="1592083569325">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
@@ -239,5 +253,20 @@
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
     <state x="425" y="406" key="run.anything.popup/0.0.3072.1688@0.0.3072.1688" timestamp="1594344661083" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Problems/Healthy sleep/src/Main.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Problems/Queens/src/Main.java</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
