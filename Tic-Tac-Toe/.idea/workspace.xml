@@ -11,6 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="984fee88-4a82-46e4-bd2e-66f734c686bb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Problems/Bus tour/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Bus tour/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Bus tour/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Bus tour/task.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Check the given numbers are different/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Check the given numbers are different/task-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Check the given numbers are different/task-remote-info.yaml" afterDir="false" />
@@ -35,6 +39,10 @@
       <change afterPath="$PROJECT_DIR$/Problems/Desks/task-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Desks/task-remote-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Desks/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Even or odd/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Even or odd/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Even or odd/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Even or odd/task.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Exactly one parameter is positive/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Exactly one parameter is positive/task-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Exactly one parameter is positive/task-remote-info.yaml" afterDir="false" />
@@ -43,6 +51,10 @@
       <change afterPath="$PROJECT_DIR$/Problems/Extracting a substring/task-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Extracting a substring/task-remote-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Extracting a substring/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Fizz Buzz/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Fizz Buzz/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Fizz Buzz/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Fizz Buzz/task.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Guest list of a hotel/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Guest list of a hotel/task-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Guest list of a hotel/task-remote-info.yaml" afterDir="false" />
@@ -67,6 +79,10 @@
       <change afterPath="$PROJECT_DIR$/Problems/Printing strings in the same order/task-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Printing strings in the same order/task-remote-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Printing strings in the same order/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Profit/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Profit/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Profit/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Profit/task.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Queens/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Queens/task-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Queens/task-remote-info.yaml" afterDir="false" />
@@ -83,14 +99,42 @@
       <change afterPath="$PROJECT_DIR$/Problems/Snail/task-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Snail/task-remote-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Snail/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Squares of natural numbers/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Squares of natural numbers/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Squares of natural numbers/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Squares of natural numbers/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The (un)-ordered sequence/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The (un)-ordered sequence/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The (un)-ordered sequence/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The (un)-ordered sequence/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The count of numbers divisible by N/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The count of numbers divisible by N/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The count of numbers divisible by N/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The count of numbers divisible by N/task.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/The forgotten comments/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/The forgotten comments/task-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/The forgotten comments/task-remote-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/The forgotten comments/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The integer barrier/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The integer barrier/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The integer barrier/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The integer barrier/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The product of numbers from a to b/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The product of numbers from a to b/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The product of numbers from a to b/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The product of numbers from a to b/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The sequence/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The sequence/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The sequence/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The sequence/task.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/The sum of digits/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/The sum of digits/task-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/The sum of digits/task-remote-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/The sum of digits/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The sum of elements/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The sum of elements/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The sum of elements/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The sum of elements/task.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,35 +175,35 @@
   <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Problems-Queens_main" />
+      <module name="Problems-Even_or_odd_main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Problems-Check_the_given_numbers_are_different_main" />
+      <module name="Problems-Bus_tour_main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Problems-Exactly_one_parameter_is_positive_main" />
+      <module name="Problems-The_integer_barrier_main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Problems-Healthy_sleep_main" />
+      <module name="Problems-The__un_-ordered_sequence_main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Problems-Leap_year_main" />
+      <module name="Problems-The_sequence_main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -205,7 +249,18 @@
       <workItem from="1594591752388" duration="642000" />
       <workItem from="1594853384351" duration="1175000" />
       <workItem from="1594914722839" duration="1198000" />
-      <workItem from="1595020719865" duration="5827000" />
+      <workItem from="1595020719865" duration="6211000" />
+      <workItem from="1595105227268" duration="2922000" />
+      <workItem from="1595278497391" duration="3129000" />
+      <workItem from="1595293895053" duration="2712000" />
+      <workItem from="1595437428232" duration="69000" />
+      <workItem from="1595437550848" duration="2706000" />
+      <workItem from="1595533046991" duration="4603000" />
+      <workItem from="1595618251776" duration="599000" />
+      <workItem from="1595706757889" duration="8864000" />
+      <workItem from="1595788452684" duration="7359000" />
+      <workItem from="1595856197704" duration="635000" />
+      <workItem from="1595874587766" duration="8557000" />
     </task>
     <servers />
   </component>
@@ -225,34 +280,66 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="456" y="580" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1594245202248">
+    <state x="456" y="580" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1595437490922">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state x="456" y="580" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.3072.1688@0.0.3072.1688" timestamp="1594245202248" />
-    <state width="1760" height="495" key="GridCell.Tab.0.bottom" timestamp="1595027322320">
+    <state x="456" y="580" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.3072.1688@0.0.3072.1688" timestamp="1595437490922" />
+    <state width="1491" height="496" key="GridCell.Tab.0.bottom" timestamp="1595896443169">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state width="1760" height="495" key="GridCell.Tab.0.bottom/0.0.3072.1688@0.0.3072.1688" timestamp="1595027322320" />
-    <state width="1760" height="495" key="GridCell.Tab.0.center" timestamp="1595027322320">
+    <state width="1491" height="496" key="GridCell.Tab.0.bottom/0.0.3072.1688@0.0.3072.1688" timestamp="1595896443169" />
+    <state width="1491" height="496" key="GridCell.Tab.0.center" timestamp="1595896443169">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state width="1760" height="495" key="GridCell.Tab.0.center/0.0.3072.1688@0.0.3072.1688" timestamp="1595027322320" />
-    <state width="1760" height="495" key="GridCell.Tab.0.left" timestamp="1595027322320">
+    <state width="1491" height="496" key="GridCell.Tab.0.center/0.0.3072.1688@0.0.3072.1688" timestamp="1595896443169" />
+    <state width="1491" height="496" key="GridCell.Tab.0.left" timestamp="1595896443169">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state width="1760" height="495" key="GridCell.Tab.0.left/0.0.3072.1688@0.0.3072.1688" timestamp="1595027322320" />
-    <state width="1760" height="495" key="GridCell.Tab.0.right" timestamp="1595027322320">
+    <state width="1491" height="496" key="GridCell.Tab.0.left/0.0.3072.1688@0.0.3072.1688" timestamp="1595896443169" />
+    <state width="1491" height="496" key="GridCell.Tab.0.right" timestamp="1595896443169">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state width="1760" height="495" key="GridCell.Tab.0.right/0.0.3072.1688@0.0.3072.1688" timestamp="1595027322320" />
+    <state width="1491" height="496" key="GridCell.Tab.0.right/0.0.3072.1688@0.0.3072.1688" timestamp="1595896443169" />
+    <state width="1491" height="606" key="GridCell.Tab.1.bottom" timestamp="1595889252713">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state width="1491" height="606" key="GridCell.Tab.1.bottom/0.0.3072.1688@0.0.3072.1688" timestamp="1595889252713" />
+    <state width="1491" height="606" key="GridCell.Tab.1.center" timestamp="1595889252713">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state width="1491" height="606" key="GridCell.Tab.1.center/0.0.3072.1688@0.0.3072.1688" timestamp="1595889252713" />
+    <state width="1491" height="606" key="GridCell.Tab.1.left" timestamp="1595889252713">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state width="1491" height="606" key="GridCell.Tab.1.left/0.0.3072.1688@0.0.3072.1688" timestamp="1595889252713" />
+    <state width="1491" height="606" key="GridCell.Tab.1.right" timestamp="1595889252713">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state width="1491" height="606" key="GridCell.Tab.1.right/0.0.3072.1688@0.0.3072.1688" timestamp="1595889252713" />
     <state x="278" y="492" key="SettingsEditor" timestamp="1592083569325">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
     <state x="278" y="492" key="SettingsEditor/0.0.3072.1688@0.0.3072.1688" timestamp="1592083569325" />
+    <state x="2115" y="761" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595440292624">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state x="2115" y="761" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.3072.1688@0.0.3072.1688" timestamp="1595440292624" />
+    <state x="1850" y="249" width="990" height="1673" key="dock-window-1" timestamp="1595896133500">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state x="1850" y="249" width="990" height="1673" key="dock-window-1/0.0.3072.1688@0.0.3072.1688" timestamp="1595896133500" />
+    <state x="424" y="0" width="1219" height="1673" key="dock-window-2" timestamp="1595896133500">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state x="424" y="0" width="1219" height="1673" key="dock-window-2/0.0.3072.1688@0.0.3072.1688" timestamp="1595896133500" />
     <state x="425" y="406" key="run.anything.popup" timestamp="1594344661083">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
     <state x="425" y="406" key="run.anything.popup/0.0.3072.1688@0.0.3072.1688" timestamp="1594344661083" />
+    <state x="1830" y="392" width="672" height="678" key="search.everywhere.popup" timestamp="1595279782784">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state x="1830" y="392" width="672" height="678" key="search.everywhere.popup/0.0.3072.1688@0.0.3072.1688" timestamp="1595279782784" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -265,6 +352,10 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Problems/Queens/src/Main.java</url>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Problems/Fizz Buzz/src/Main.java</url>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

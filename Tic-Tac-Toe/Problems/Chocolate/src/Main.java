@@ -54,6 +54,42 @@ class Main {
         int N = scanner.nextInt();
         int M = scanner.nextInt();
         int K = scanner.nextInt();
+        int total = N * M;
+
+        if(K < N*M){
+            if(K%N == 0 || K%M == 0){
+                System.out.println("YES");
+            }else{
+                System.out.println("NO");
+
+            }
+        }else{
+            System.out.println("NO");
+
+        }
+/*
+        int i = 1;
+        int j = 1;
+
+        int multiplication;
+
+        while(i<=N){
+
+            while(j<M){
+                multiplication = i * j;
+                if(multiplication == K){
+                    System.out.println("YES");
+                    break;
+                }else{
+                    j++;
+                }
+            }
+
+            i++;
+            if(i == N){
+                System.out.println("NO");
+
+            }*/
 
 
 

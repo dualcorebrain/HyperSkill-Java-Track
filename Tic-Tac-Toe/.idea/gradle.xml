@@ -11,14 +11,17 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Problems/Bus tour" />
             <option value="$PROJECT_DIR$/Problems/Check the given numbers are different" />
             <option value="$PROJECT_DIR$/Problems/Check the value" />
             <option value="$PROJECT_DIR$/Problems/Chocolate" />
             <option value="$PROJECT_DIR$/Problems/Comparing strings ignoring whitespaces" />
             <option value="$PROJECT_DIR$/Problems/Decrement all" />
             <option value="$PROJECT_DIR$/Problems/Desks" />
+            <option value="$PROJECT_DIR$/Problems/Even or odd" />
             <option value="$PROJECT_DIR$/Problems/Exactly one parameter is positive" />
             <option value="$PROJECT_DIR$/Problems/Extracting a substring" />
+            <option value="$PROJECT_DIR$/Problems/Fizz Buzz" />
             <option value="$PROJECT_DIR$/Problems/Guest list of a hotel" />
             <option value="$PROJECT_DIR$/Problems/Healthy sleep" />
             <option value="$PROJECT_DIR$/Problems/Hello!" />
@@ -27,13 +30,21 @@
             <option value="$PROJECT_DIR$/Problems/Initializing an array of integers" />
             <option value="$PROJECT_DIR$/Problems/Leap year" />
             <option value="$PROJECT_DIR$/Problems/Printing strings in the same order" />
+            <option value="$PROJECT_DIR$/Problems/Profit" />
             <option value="$PROJECT_DIR$/Problems/Queens" />
             <option value="$PROJECT_DIR$/Problems/Replacing 'a' with 'b'" />
             <option value="$PROJECT_DIR$/Problems/Reversing" />
             <option value="$PROJECT_DIR$/Problems/Snail" />
+            <option value="$PROJECT_DIR$/Problems/Squares of natural numbers" />
+            <option value="$PROJECT_DIR$/Problems/The (un)-ordered sequence" />
             <option value="$PROJECT_DIR$/Problems/The Hello World program" />
+            <option value="$PROJECT_DIR$/Problems/The count of numbers divisible by N" />
             <option value="$PROJECT_DIR$/Problems/The forgotten comments" />
+            <option value="$PROJECT_DIR$/Problems/The integer barrier" />
+            <option value="$PROJECT_DIR$/Problems/The product of numbers from a to b" />
+            <option value="$PROJECT_DIR$/Problems/The sequence" />
             <option value="$PROJECT_DIR$/Problems/The sum of digits" />
+            <option value="$PROJECT_DIR$/Problems/The sum of elements" />
             <option value="$PROJECT_DIR$/Tic-Tac-Toe/task" />
             <option value="$PROJECT_DIR$/util" />
           </set>
