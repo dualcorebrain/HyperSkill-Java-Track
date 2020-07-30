@@ -11,6 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="984fee88-4a82-46e4-bd2e-66f734c686bb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Problems/Alphabetical order/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Alphabetical order/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Alphabetical order/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Alphabetical order/task.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Bus tour/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Bus tour/task-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Bus tour/task-remote-info.yaml" afterDir="false" />
@@ -31,6 +35,10 @@
       <change afterPath="$PROJECT_DIR$/Problems/Comparing strings ignoring whitespaces/task-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Comparing strings ignoring whitespaces/task-remote-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Comparing strings ignoring whitespaces/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Count how many times a number occurs/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Count how many times a number occurs/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Count how many times a number occurs/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Count how many times a number occurs/task.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Decrement all/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Decrement all/task-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Decrement all/task-remote-info.yaml" afterDir="false" />
@@ -63,6 +71,7 @@
       <change afterPath="$PROJECT_DIR$/Problems/Healthy sleep/task-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Healthy sleep/task-remote-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Healthy sleep/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Hello!/src/Testings.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Hiring a chef/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Hiring a chef/task-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Hiring a chef/task-remote-info.yaml" afterDir="false" />
@@ -146,6 +155,13 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -172,17 +188,10 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
     <property name="show.inlinked.gradle.project.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Testings">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Problems-Even_or_odd_main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Problems-Bus_tour_main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -208,13 +217,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Testings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Testings" />
+      <module name="Problems-Hello!_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Testings" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -261,6 +277,9 @@
       <workItem from="1595788452684" duration="7359000" />
       <workItem from="1595856197704" duration="635000" />
       <workItem from="1595874587766" duration="11115000" />
+      <workItem from="1596048435248" duration="250000" />
+      <workItem from="1596055620509" duration="1198000" />
+      <workItem from="1596069389553" duration="846000" />
     </task>
     <servers />
   </component>
@@ -284,22 +303,22 @@
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
     <state x="456" y="580" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.3072.1688@0.0.3072.1688" timestamp="1595437490922" />
-    <state width="1491" height="606" key="GridCell.Tab.0.bottom" timestamp="1595900244015">
+    <state width="1491" height="496" key="GridCell.Tab.0.bottom" timestamp="1596069826492">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state width="1491" height="606" key="GridCell.Tab.0.bottom/0.0.3072.1688@0.0.3072.1688" timestamp="1595900244015" />
-    <state width="1491" height="606" key="GridCell.Tab.0.center" timestamp="1595900244014">
+    <state width="1491" height="496" key="GridCell.Tab.0.bottom/0.0.3072.1688@0.0.3072.1688" timestamp="1596069826492" />
+    <state width="1491" height="496" key="GridCell.Tab.0.center" timestamp="1596069826492">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state width="1491" height="606" key="GridCell.Tab.0.center/0.0.3072.1688@0.0.3072.1688" timestamp="1595900244014" />
-    <state width="1491" height="606" key="GridCell.Tab.0.left" timestamp="1595900244014">
+    <state width="1491" height="496" key="GridCell.Tab.0.center/0.0.3072.1688@0.0.3072.1688" timestamp="1596069826492" />
+    <state width="1491" height="496" key="GridCell.Tab.0.left" timestamp="1596069826492">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state width="1491" height="606" key="GridCell.Tab.0.left/0.0.3072.1688@0.0.3072.1688" timestamp="1595900244014" />
-    <state width="1491" height="606" key="GridCell.Tab.0.right" timestamp="1595900244014">
+    <state width="1491" height="496" key="GridCell.Tab.0.left/0.0.3072.1688@0.0.3072.1688" timestamp="1596069826492" />
+    <state width="1491" height="496" key="GridCell.Tab.0.right" timestamp="1596069826492">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state width="1491" height="606" key="GridCell.Tab.0.right/0.0.3072.1688@0.0.3072.1688" timestamp="1595900244014" />
+    <state width="1491" height="496" key="GridCell.Tab.0.right/0.0.3072.1688@0.0.3072.1688" timestamp="1596069826492" />
     <state width="1491" height="606" key="GridCell.Tab.1.bottom" timestamp="1595900244015">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>

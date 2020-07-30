@@ -11,11 +11,13 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Problems/Alphabetical order" />
             <option value="$PROJECT_DIR$/Problems/Bus tour" />
             <option value="$PROJECT_DIR$/Problems/Check the given numbers are different" />
             <option value="$PROJECT_DIR$/Problems/Check the value" />
             <option value="$PROJECT_DIR$/Problems/Chocolate" />
             <option value="$PROJECT_DIR$/Problems/Comparing strings ignoring whitespaces" />
+            <option value="$PROJECT_DIR$/Problems/Count how many times a number occurs" />
             <option value="$PROJECT_DIR$/Problems/Decrement all" />
             <option value="$PROJECT_DIR$/Problems/Desks" />
             <option value="$PROJECT_DIR$/Problems/Even or odd" />
