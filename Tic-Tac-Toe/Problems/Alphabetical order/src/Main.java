@@ -34,10 +34,44 @@ Sample Output 2:
 
 true
  */
-
+/*How to compare string element 'i' with 'i+1' in the same array!*/
+import java.util.*;
 class Main {
     public static void main(String[] args) {
         // put your code here
+
+        Scanner scanner = new Scanner(System.in);
+
+        String[] stringArray = scanner.nextLine().split(" ");
+        int value = 0;
+        int result;
+        Boolean oneValueNotInOrder = false;
+
+        for(int i = 0; i<stringArray.length ; i++){
+            for(int j = i+1 ; j<stringArray.length ; j++){
+                result = stringArray[i].compareTo(stringArray[j]);
+
+                if(result < 0){
+                    value = value - 1;
+                }else if(result > 0){
+                    value = value + 1;
+                    oneValueNotInOrder = true;
+                }
+            }
+
+
+        }
+        if(oneValueNotInOrder){
+            System.out.println("false");
+        }
+        else if(value <= 0){
+            System.out.println("true");
+        }
+        else if(value > 0){
+            System.out.println("false");
+        }
+
+
 
         
     }

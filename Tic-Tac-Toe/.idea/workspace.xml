@@ -188,7 +188,7 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
     <property name="show.inlinked.gradle.project.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Testings">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Problems-Even_or_odd_main" />
@@ -196,9 +196,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Problems-The_integer_barrier_main" />
+      <module name="Problems-Alphabetical_order_main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -226,11 +226,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Testings" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -279,7 +279,9 @@
       <workItem from="1595874587766" duration="11115000" />
       <workItem from="1596048435248" duration="250000" />
       <workItem from="1596055620509" duration="1198000" />
-      <workItem from="1596069389553" duration="846000" />
+      <workItem from="1596069389553" duration="1076000" />
+      <workItem from="1596206791220" duration="767000" />
+      <workItem from="1596401681674" duration="2910000" />
     </task>
     <servers />
   </component>
@@ -303,22 +305,22 @@
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
     <state x="456" y="580" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.3072.1688@0.0.3072.1688" timestamp="1595437490922" />
-    <state width="1491" height="496" key="GridCell.Tab.0.bottom" timestamp="1596069826492">
+    <state width="1493" height="494" key="GridCell.Tab.0.bottom" timestamp="1596404437861">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state width="1491" height="496" key="GridCell.Tab.0.bottom/0.0.3072.1688@0.0.3072.1688" timestamp="1596069826492" />
-    <state width="1491" height="496" key="GridCell.Tab.0.center" timestamp="1596069826492">
+    <state width="1493" height="494" key="GridCell.Tab.0.bottom/0.0.3072.1688@0.0.3072.1688" timestamp="1596404437861" />
+    <state width="1493" height="494" key="GridCell.Tab.0.center" timestamp="1596404437860">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state width="1491" height="496" key="GridCell.Tab.0.center/0.0.3072.1688@0.0.3072.1688" timestamp="1596069826492" />
-    <state width="1491" height="496" key="GridCell.Tab.0.left" timestamp="1596069826492">
+    <state width="1493" height="494" key="GridCell.Tab.0.center/0.0.3072.1688@0.0.3072.1688" timestamp="1596404437860" />
+    <state width="1493" height="494" key="GridCell.Tab.0.left" timestamp="1596404437860">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state width="1491" height="496" key="GridCell.Tab.0.left/0.0.3072.1688@0.0.3072.1688" timestamp="1596069826492" />
-    <state width="1491" height="496" key="GridCell.Tab.0.right" timestamp="1596069826492">
+    <state width="1493" height="494" key="GridCell.Tab.0.left/0.0.3072.1688@0.0.3072.1688" timestamp="1596404437860" />
+    <state width="1493" height="494" key="GridCell.Tab.0.right" timestamp="1596404437861">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state width="1491" height="496" key="GridCell.Tab.0.right/0.0.3072.1688@0.0.3072.1688" timestamp="1596069826492" />
+    <state width="1493" height="494" key="GridCell.Tab.0.right/0.0.3072.1688@0.0.3072.1688" timestamp="1596404437861" />
     <state width="1491" height="606" key="GridCell.Tab.1.bottom" timestamp="1595900244015">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
@@ -355,10 +357,10 @@
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
     <state x="425" y="406" key="run.anything.popup/0.0.3072.1688@0.0.3072.1688" timestamp="1594344661083" />
-    <state x="1830" y="392" width="672" height="678" key="search.everywhere.popup" timestamp="1595279782784">
+    <state x="1830" y="392" width="672" height="678" key="search.everywhere.popup" timestamp="1596403879938">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state x="1830" y="392" width="672" height="678" key="search.everywhere.popup/0.0.3072.1688@0.0.3072.1688" timestamp="1595279782784" />
+    <state x="1830" y="392" width="672" height="678" key="search.everywhere.popup/0.0.3072.1688@0.0.3072.1688" timestamp="1596403879938" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
