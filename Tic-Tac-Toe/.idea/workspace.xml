@@ -19,6 +19,10 @@
       <change afterPath="$PROJECT_DIR$/Problems/Bus tour/task-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Bus tour/task-remote-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Bus tour/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Check if an array is sorted ascending/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Check if an array is sorted ascending/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Check if an array is sorted ascending/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Check if an array is sorted ascending/task.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Check the given numbers are different/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Check the given numbers are different/task-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Check the given numbers are different/task-remote-info.yaml" afterDir="false" />
@@ -128,6 +132,10 @@
       <change afterPath="$PROJECT_DIR$/Problems/The integer barrier/task-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/The integer barrier/task-remote-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/The integer barrier/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The longest ascending sequence/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The longest ascending sequence/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The longest ascending sequence/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The longest ascending sequence/task.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/The product of numbers from a to b/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/The product of numbers from a to b/task-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/The product of numbers from a to b/task-remote-info.yaml" afterDir="false" />
@@ -188,7 +196,7 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
     <property name="show.inlinked.gradle.project.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Problems-Even_or_odd_main" />
@@ -203,16 +211,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Problems-The__un_-ordered_sequence_main" />
+      <module name="Problems-The_longest_ascending_sequence_main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Problems-The_sequence_main" />
+      <module name="Problems-Check_if_an_array_is_sorted_ascending_main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -226,11 +234,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Testings" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -281,7 +289,10 @@
       <workItem from="1596055620509" duration="1198000" />
       <workItem from="1596069389553" duration="1076000" />
       <workItem from="1596206791220" duration="767000" />
-      <workItem from="1596401681674" duration="2910000" />
+      <workItem from="1596401681674" duration="3382000" />
+      <workItem from="1596460360798" duration="2965000" />
+      <workItem from="1596831886219" duration="3483000" />
+      <workItem from="1596846736431" duration="29000" />
     </task>
     <servers />
   </component>
@@ -305,38 +316,38 @@
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
     <state x="456" y="580" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.3072.1688@0.0.3072.1688" timestamp="1595437490922" />
-    <state width="1493" height="494" key="GridCell.Tab.0.bottom" timestamp="1596404437861">
+    <state width="1491" height="606" key="GridCell.Tab.0.bottom" timestamp="1596841096600">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state width="1493" height="494" key="GridCell.Tab.0.bottom/0.0.3072.1688@0.0.3072.1688" timestamp="1596404437861" />
-    <state width="1493" height="494" key="GridCell.Tab.0.center" timestamp="1596404437860">
+    <state width="1491" height="606" key="GridCell.Tab.0.bottom/0.0.3072.1688@0.0.3072.1688" timestamp="1596841096600" />
+    <state width="1491" height="606" key="GridCell.Tab.0.center" timestamp="1596841096600">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state width="1493" height="494" key="GridCell.Tab.0.center/0.0.3072.1688@0.0.3072.1688" timestamp="1596404437860" />
-    <state width="1493" height="494" key="GridCell.Tab.0.left" timestamp="1596404437860">
+    <state width="1491" height="606" key="GridCell.Tab.0.center/0.0.3072.1688@0.0.3072.1688" timestamp="1596841096600" />
+    <state width="1491" height="606" key="GridCell.Tab.0.left" timestamp="1596841096600">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state width="1493" height="494" key="GridCell.Tab.0.left/0.0.3072.1688@0.0.3072.1688" timestamp="1596404437860" />
-    <state width="1493" height="494" key="GridCell.Tab.0.right" timestamp="1596404437861">
+    <state width="1491" height="606" key="GridCell.Tab.0.left/0.0.3072.1688@0.0.3072.1688" timestamp="1596841096600" />
+    <state width="1491" height="606" key="GridCell.Tab.0.right" timestamp="1596841096600">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state width="1493" height="494" key="GridCell.Tab.0.right/0.0.3072.1688@0.0.3072.1688" timestamp="1596404437861" />
-    <state width="1491" height="606" key="GridCell.Tab.1.bottom" timestamp="1595900244015">
+    <state width="1491" height="606" key="GridCell.Tab.0.right/0.0.3072.1688@0.0.3072.1688" timestamp="1596841096600" />
+    <state width="1491" height="606" key="GridCell.Tab.1.bottom" timestamp="1596841096601">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state width="1491" height="606" key="GridCell.Tab.1.bottom/0.0.3072.1688@0.0.3072.1688" timestamp="1595900244015" />
-    <state width="1491" height="606" key="GridCell.Tab.1.center" timestamp="1595900244015">
+    <state width="1491" height="606" key="GridCell.Tab.1.bottom/0.0.3072.1688@0.0.3072.1688" timestamp="1596841096601" />
+    <state width="1491" height="606" key="GridCell.Tab.1.center" timestamp="1596841096601">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state width="1491" height="606" key="GridCell.Tab.1.center/0.0.3072.1688@0.0.3072.1688" timestamp="1595900244015" />
-    <state width="1491" height="606" key="GridCell.Tab.1.left" timestamp="1595900244015">
+    <state width="1491" height="606" key="GridCell.Tab.1.center/0.0.3072.1688@0.0.3072.1688" timestamp="1596841096601" />
+    <state width="1491" height="606" key="GridCell.Tab.1.left" timestamp="1596841096600">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state width="1491" height="606" key="GridCell.Tab.1.left/0.0.3072.1688@0.0.3072.1688" timestamp="1595900244015" />
-    <state width="1491" height="606" key="GridCell.Tab.1.right" timestamp="1595900244015">
+    <state width="1491" height="606" key="GridCell.Tab.1.left/0.0.3072.1688@0.0.3072.1688" timestamp="1596841096600" />
+    <state width="1491" height="606" key="GridCell.Tab.1.right" timestamp="1596841096601">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state width="1491" height="606" key="GridCell.Tab.1.right/0.0.3072.1688@0.0.3072.1688" timestamp="1595900244015" />
+    <state width="1491" height="606" key="GridCell.Tab.1.right/0.0.3072.1688@0.0.3072.1688" timestamp="1596841096601" />
     <state x="278" y="492" key="SettingsEditor" timestamp="1592083569325">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>

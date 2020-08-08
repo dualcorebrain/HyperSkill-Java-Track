@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Problems/Alphabetical order" />
             <option value="$PROJECT_DIR$/Problems/Bus tour" />
+            <option value="$PROJECT_DIR$/Problems/Check if an array is sorted ascending" />
             <option value="$PROJECT_DIR$/Problems/Check the given numbers are different" />
             <option value="$PROJECT_DIR$/Problems/Check the value" />
             <option value="$PROJECT_DIR$/Problems/Chocolate" />
@@ -43,6 +44,7 @@
             <option value="$PROJECT_DIR$/Problems/The count of numbers divisible by N" />
             <option value="$PROJECT_DIR$/Problems/The forgotten comments" />
             <option value="$PROJECT_DIR$/Problems/The integer barrier" />
+            <option value="$PROJECT_DIR$/Problems/The longest ascending sequence" />
             <option value="$PROJECT_DIR$/Problems/The product of numbers from a to b" />
             <option value="$PROJECT_DIR$/Problems/The sequence" />
             <option value="$PROJECT_DIR$/Problems/The sum of digits" />

@@ -47,6 +47,9 @@ class Main {
         int result;
         Boolean oneValueNotInOrder = false;
 
+        /*
+        To check elements of an array with the next element in the same array this is the method
+         */
         for(int i = 0; i<stringArray.length ; i++){
             for(int j = i+1 ; j<stringArray.length ; j++){
                 result = stringArray[i].compareTo(stringArray[j]);
@@ -61,7 +64,7 @@ class Main {
 
 
         }
-        if(oneValueNotInOrder){
+        if(oneValueNotInOrder){     //This is the important one for passing test #3
             System.out.println("false");
         }
         else if(value <= 0){
