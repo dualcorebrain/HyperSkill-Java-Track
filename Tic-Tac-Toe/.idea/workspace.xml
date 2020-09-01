@@ -35,6 +35,10 @@
       <change afterPath="$PROJECT_DIR$/Problems/Chocolate/task-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Chocolate/task-remote-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Chocolate/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Cinema/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Cinema/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Cinema/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Cinema/task.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Comparing strings ignoring whitespaces/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Comparing strings ignoring whitespaces/task-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Comparing strings ignoring whitespaces/task-remote-info.yaml" afterDir="false" />
@@ -63,6 +67,10 @@
       <change afterPath="$PROJECT_DIR$/Problems/Extracting a substring/task-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Extracting a substring/task-remote-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Extracting a substring/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Fill the matrix by numbers/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Fill the matrix by numbers/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Fill the matrix by numbers/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Fill the matrix by numbers/task.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Fizz Buzz/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Fizz Buzz/task-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Fizz Buzz/task-remote-info.yaml" afterDir="false" />
@@ -112,6 +120,10 @@
       <change afterPath="$PROJECT_DIR$/Problems/Snail/task-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Snail/task-remote-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Snail/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Spiral/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Spiral/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Spiral/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Spiral/task.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Squares of natural numbers/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Squares of natural numbers/task-info.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Problems/Squares of natural numbers/task-remote-info.yaml" afterDir="false" />
@@ -196,10 +208,10 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
     <property name="show.inlinked.gradle.project.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Main (4)">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Problems-Even_or_odd_main" />
+      <module name="Problems-Spiral_main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -225,20 +237,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Testings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Testings" />
-      <module name="Problems-Hello!_main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Problems-Fill_the_matrix_by_numbers_main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Testings" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -292,7 +304,11 @@
       <workItem from="1596401681674" duration="3382000" />
       <workItem from="1596460360798" duration="2965000" />
       <workItem from="1596831886219" duration="3483000" />
-      <workItem from="1596846736431" duration="29000" />
+      <workItem from="1596846736431" duration="664000" />
+      <workItem from="1597008296841" duration="618000" />
+      <workItem from="1598727575625" duration="4944000" />
+      <workItem from="1598907807303" duration="7430000" />
+      <workItem from="1598922362239" duration="32000" />
     </task>
     <servers />
   </component>
@@ -316,22 +332,22 @@
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
     <state x="456" y="580" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.3072.1688@0.0.3072.1688" timestamp="1595437490922" />
-    <state width="1491" height="606" key="GridCell.Tab.0.bottom" timestamp="1596841096600">
+    <state width="1491" height="366" key="GridCell.Tab.0.bottom" timestamp="1598917977113">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state width="1491" height="606" key="GridCell.Tab.0.bottom/0.0.3072.1688@0.0.3072.1688" timestamp="1596841096600" />
-    <state width="1491" height="606" key="GridCell.Tab.0.center" timestamp="1596841096600">
+    <state width="1491" height="366" key="GridCell.Tab.0.bottom/0.0.3072.1688@0.0.3072.1688" timestamp="1598917977113" />
+    <state width="1491" height="366" key="GridCell.Tab.0.center" timestamp="1598917977113">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state width="1491" height="606" key="GridCell.Tab.0.center/0.0.3072.1688@0.0.3072.1688" timestamp="1596841096600" />
-    <state width="1491" height="606" key="GridCell.Tab.0.left" timestamp="1596841096600">
+    <state width="1491" height="366" key="GridCell.Tab.0.center/0.0.3072.1688@0.0.3072.1688" timestamp="1598917977113" />
+    <state width="1491" height="366" key="GridCell.Tab.0.left" timestamp="1598917977113">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state width="1491" height="606" key="GridCell.Tab.0.left/0.0.3072.1688@0.0.3072.1688" timestamp="1596841096600" />
-    <state width="1491" height="606" key="GridCell.Tab.0.right" timestamp="1596841096600">
+    <state width="1491" height="366" key="GridCell.Tab.0.left/0.0.3072.1688@0.0.3072.1688" timestamp="1598917977113" />
+    <state width="1491" height="366" key="GridCell.Tab.0.right" timestamp="1598917977113">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
-    <state width="1491" height="606" key="GridCell.Tab.0.right/0.0.3072.1688@0.0.3072.1688" timestamp="1596841096600" />
+    <state width="1491" height="366" key="GridCell.Tab.0.right/0.0.3072.1688@0.0.3072.1688" timestamp="1598917977113" />
     <state width="1491" height="606" key="GridCell.Tab.1.bottom" timestamp="1596841096601">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
